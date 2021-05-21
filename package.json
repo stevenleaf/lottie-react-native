@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-community/lottie-react-native.git"
+    "url": "git+https://github.com/stevenleaf/lottie-react-native.git"
   },
   "keywords": [
     "lottie",
@@ -42,7 +42,7 @@
   },
   "homepage": "https://github.com/airbnb/lottie-react-native#readme",
   "peerDependencies": {
-    "lottie-ios": "^3.1.8",
+    "lottie-ios": "^3.2.3",
     "react": "*",
     "react-native": ">=0.46"
   },
